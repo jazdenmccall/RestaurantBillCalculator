@@ -1,0 +1,16 @@
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\netcoreapp3.1\RestaurantBillCalculator.exe
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\netcoreapp3.1\RestaurantBillCalculator.deps.json
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\netcoreapp3.1\RestaurantBillCalculator.runtimeconfig.json
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\netcoreapp3.1\RestaurantBillCalculator.runtimeconfig.dev.json
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\netcoreapp3.1\RestaurantBillCalculator.dll
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\bin\Debug\netcoreapp3.1\RestaurantBillCalculator.pdb
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.csprojAssemblyReference.cache
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.Form1.resources
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.csproj.GenerateResource.cache
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.AssemblyInfoInputs.cache
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.AssemblyInfo.cs
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.dll
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.pdb
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.genruntimeconfig.cache
+C:\Users\Jazden McCall\source\repos\RestaurantBillCalculator\RestaurantBillCalculator\obj\Debug\netcoreapp3.1\RestaurantBillCalculator.Form1.Resutrant Bill.resources
